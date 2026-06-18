@@ -21,9 +21,6 @@ Powered by real-time updates from the open-source **OurAirports** dataset, it in
 The script is entirely self-contained and only requires Python 3.7+ and the `requests` library.
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
    
 2. Install dependency:
    pip install requests

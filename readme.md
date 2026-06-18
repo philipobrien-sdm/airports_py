@@ -31,6 +31,7 @@ The script is entirely self-contained and only requires Python 3.7+ and the `req
    3. Usage:
 
           python airports.py
+          (or python airports_extended_info.py)
 
          Connecting to OurAirports data source...
          → Downloading airport directory...
